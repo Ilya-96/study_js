@@ -1,3 +1,3 @@
 document.getElementById('github').onclock = function(){
-    console.log('Изучил git и github');
+    alert('Изучил git и github');
 };
